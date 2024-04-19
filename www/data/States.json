@@ -1,0 +1,513 @@
+[
+    null,
+    {
+        "id": 1,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 1,
+        "maxTurns": 1,
+        "message1": "fell down!",
+        "message2": "I defeated it!",
+        "message3": "",
+        "message4": "stood up!",
+        "minTurns": 1,
+        "motion": 3,
+        "name": "Unable to fight",
+        "note": "State 1 is when HP becomes 0\nIt will be added automatically.",
+        "overlay": 0,
+        "priority": 100,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "defense",
+        "note": "",
+        "overlay": 0,
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 1,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "immortality",
+        "note": "",
+        "overlay": 0,
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 1,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 2,
+        "maxTurns": 1,
+        "message1": "is poisoned!",
+        "message2": "I poisoned it!",
+        "message3": "",
+        "message4": "The poison is gone!",
+        "minTurns": 1,
+        "motion": 1,
+        "overlay": 1,
+        "name": "poison",
+        "note": "",
+        "priority": 50,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.05
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 3,
+        "maxTurns": 5,
+        "message1": "is closed in darkness!",
+        "message2": "closed in darkness!",
+        "message3": "",
+        "message4": "The darkness has disappeared!",
+        "minTurns": 3,
+        "motion": 1,
+        "name": "darkness",
+        "note": "",
+        "overlay": 2,
+        "priority": 60,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 4,
+        "maxTurns": 5,
+        "message1": "was silent!",
+        "message2": "silenced!",
+        "message3": "",
+        "message4": "The silence has been lifted!",
+        "minTurns": 3,
+        "motion": 1,
+        "name": "silence",
+        "note": "",
+        "overlay": 3,
+        "priority": 65,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 42,
+                "dataId": 1,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 5,
+        "maxTurns": 4,
+        "message1": "was furious!",
+        "message2": "It made me furious!",
+        "message3": "",
+        "message4": "I came to my senses!",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "Passionate",
+        "note": "",
+        "overlay": 4,
+        "priority": 70,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 1,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 8,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 6,
+        "maxTurns": 4,
+        "message1": "I was confused!",
+        "message2": "Confused!",
+        "message3": "",
+        "message4": "I came to my senses!",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "confusion",
+        "note": "",
+        "overlay": 5,
+        "priority": 75,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 2,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 9,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 7,
+        "maxTurns": 4,
+        "message1": "was fascinated!",
+        "message2": "It fascinated me!",
+        "message3": "",
+        "message4": "I came to my senses!",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "Fascinating",
+        "note": "",
+        "overlay": 6,
+        "priority": 80,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 3,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 10,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 8,
+        "maxTurns": 5,
+        "message1": "fell asleep!",
+        "message2": "I put him to sleep!",
+        "message3": "is asleep.",
+        "message4": "I woke up!",
+        "minTurns": 3,
+        "motion": 2,
+        "name": "sleep",
+        "note": "",
+        "overlay": 7,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 50,
+        "iconIndex": 38,
+        "maxTurns": 4,
+        "message1": "was focused!",
+        "message2": "",
+        "message3": "",
+        "message4": "I lost my concentration.",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "concentrated",
+        "note": "",
+        "overlay": 0,
+        "priority": 70,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 12,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 11,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "Miscellaneous",
+        "note": "",
+        "overlay": 0,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 87,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "fine",
+        "note": "",
+        "overlay": 0,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "prison",
+        "note": "",
+        "overlay": 0,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 54,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 10,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 54,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 53,
+                "dataId": 6,
+                "value": 1
+            }
+        ]
+    }
+]

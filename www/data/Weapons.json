@@ -1,0 +1,4472 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 302,
+        "name": "reincarnated person",
+        "note": "<Set Sts Data>\nskill: 3, 4\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 2,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 106,
+        "name": "adventurer",
+        "note": "<Set Sts Data>\nskill: 13, 23, 25, 26, 34, 36\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 3,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 97,
+        "name": "swordsman",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 4,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 96,
+        "name": "Thief",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 5,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 121,
+        "name": "clergyman",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 6,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 99,
+        "name": "merchant",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 7,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 101,
+        "name": "wizard",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 8,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 102,
+        "name": "Archer",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 9,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 104,
+        "name": "gunslinger",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 10,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 120,
+        "name": "Guards Knight",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 11,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 120,
+        "name": "Paladin",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 12,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 123,
+        "name": "assassin",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 13,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 123,
+        "name": "Tracker",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 14,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 121,
+        "name": "arc priest",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 15,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 108,
+        "name": "monk",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 16,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 99,
+        "name": "businessman",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 99,
+        "name": "alchemist",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 18,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 109,
+        "name": "wizard",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 19,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 112,
+        "name": "magic swordsman",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 20,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 103,
+        "name": "hunter",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 21,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 111,
+        "name": "tamer",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 116,
+        "name": "sniper",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 23,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 115,
+        "name": "stratos",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 24,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 25,
+        "animationId": 6,
+        "description": "Weapon type: dagger\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "reincarnation's dagger",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 2
+    },
+    {
+        "id": 26,
+        "animationId": 6,
+        "description": "Weapon type: One-handed long sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Novice Sword",
+        "note": "",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 3
+    },
+    {
+        "id": 27,
+        "animationId": 6,
+        "description": "Weapon type: One-handed sword\nAttack range: 2 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "novice rapier",
+        "note": "",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 4
+    },
+    {
+        "id": 28,
+        "animationId": 6,
+        "description": "Weapon type: Two-handed sword\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 123,
+        "name": "Novice Blade",
+        "note": "",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 5
+    },
+    {
+        "id": 29,
+        "animationId": 6,
+        "description": "Weapon type: sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 120,
+        "name": "Novice Katana",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 6
+    },
+    {
+        "id": 30,
+        "animationId": 6,
+        "description": "Weapon type: two-handed ax\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 99,
+        "name": "novice two handed ax",
+        "note": "",
+        "params": [
+            0,
+            0,
+            21,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 7
+    },
+    {
+        "id": 31,
+        "animationId": 1,
+        "description": "Weapon type: Mace\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "Novice Mace",
+        "note": "",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 8
+    },
+    {
+        "id": 32,
+        "animationId": 6,
+        "description": "Weapon type: sickle\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 122,
+        "name": "Novice Scythe",
+        "note": "",
+        "params": [
+            0,
+            0,
+            22,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 9
+    },
+    {
+        "id": 33,
+        "animationId": 1,
+        "description": "Weapon type: handgun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "novice handgun",
+        "note": "",
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 10
+    },
+    {
+        "id": 34,
+        "animationId": 1,
+        "description": "Weapon type: submachine gun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "novice submachine gun",
+        "note": "",
+        "params": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 11
+    },
+    {
+        "id": 35,
+        "animationId": 1,
+        "description": "Weapon type: assault rifle\nAttack range: 6 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "novice assault rifle",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 160,
+        "wtypeId": 12
+    },
+    {
+        "id": 36,
+        "animationId": 1,
+        "description": "Weapon type: Sniper rifle\nAttack range: 10 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 116,
+        "name": "novice sniper rifle",
+        "note": "",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 160,
+        "wtypeId": 13
+    },
+    {
+        "id": 37,
+        "animationId": 1,
+        "description": "Weapon type: one-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 101,
+        "name": "novice wand",
+        "note": "",
+        "params": [
+            0,
+            0,
+            1,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 14
+    },
+    {
+        "id": 38,
+        "animationId": 1,
+        "description": "Weapon type: Two-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.06
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 101,
+        "name": "novice rod",
+        "note": "",
+        "params": [
+            0,
+            0,
+            2,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 15
+    },
+    {
+        "id": 39,
+        "animationId": 11,
+        "description": "Weapon type: Bow\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 102,
+        "name": "Novice Bow",
+        "note": "",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 16
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 43,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 45,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "divine",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            5,
+            0,
+            0,
+            5,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 46,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "sharp",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 47,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of protection",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 48,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "gale of wind",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 49,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Magic",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 50,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "light",
+        "note": "",
+        "params": [
+            0,
+            0,
+            -3,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 51,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "heavy",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            -5,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 52,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "ungainly",
+        "note": "",
+        "params": [
+            0,
+            0,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 53,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "subtle",
+        "note": "",
+        "params": [
+            0,
+            0,
+            -1,
+            -1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 54,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 55,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of power",
+        "note": "",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 56,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of guard",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 57,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.005
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of regenerate",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 58,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of ifrit",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 59,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of aqua",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 60,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of sylph",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 61,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of gnome",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 62,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of holy",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 63,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of darkness",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 64,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Of Deadly",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 65,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "of ghost",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 66,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 67,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 68,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 69,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 70,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 71,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 72,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 73,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 74,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 0,
+        "name": "Reincarnated person's protection 1",
+        "note": "",
+        "params": [
+            10,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 75,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 76,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.01
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 1",
+        "note": "",
+        "params": [
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 77,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.01
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 2",
+        "note": "",
+        "params": [
+            10,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 78,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.01
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 3",
+        "note": "",
+        "params": [
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 79,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.01
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 4",
+        "note": "",
+        "params": [
+            20,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 80,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.015
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 5",
+        "note": "",
+        "params": [
+            25,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 81,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.015
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 6",
+        "note": "",
+        "params": [
+            30,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 82,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 7",
+        "note": "",
+        "params": [
+            35,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 83,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 8",
+        "note": "",
+        "params": [
+            40,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 84,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.025
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improvement 9",
+        "note": "",
+        "params": [
+            45,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 85,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 0,
+        "name": "HP recovery power improved 10",
+        "note": "",
+        "params": [
+            50,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 86,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 87,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 23,
+        "name": "H skill",
+        "note": "<Set Sts Data>\nskill: 39, 42, 46, 50, 54, 75, 76, 53\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 88,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [],
+        "iconIndex": 7,
+        "name": "Physical contact",
+        "note": "<Set Sts Data>\nskill: 58, 61, 64, 68, 72\n</Set Sts Data>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 89,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 90,
+        "animationId": 6,
+        "description": "Weapon type: dagger\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "novice knife",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 2
+    },
+    {
+        "id": 91,
+        "animationId": 6,
+        "description": "Weapon type: One-handed long sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Novice Sword",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 3
+    },
+    {
+        "id": 92,
+        "animationId": 6,
+        "description": "Weapon type: One-handed sword\nAttack range: 2 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "novice rapier",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 4
+    },
+    {
+        "id": 93,
+        "animationId": 6,
+        "description": "Weapon type: Two-handed sword\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 123,
+        "name": "Novice Blade",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 5
+    },
+    {
+        "id": 94,
+        "animationId": 6,
+        "description": "Weapon type: sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 120,
+        "name": "Novice Katana",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 6
+    },
+    {
+        "id": 95,
+        "animationId": 6,
+        "description": "Weapon type: two-handed ax\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 99,
+        "name": "novice two handed ax",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            21,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 7
+    },
+    {
+        "id": 96,
+        "animationId": 1,
+        "description": "Weapon type: Mace\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "Novice Mace",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 8
+    },
+    {
+        "id": 97,
+        "animationId": 6,
+        "description": "Weapon type: sickle\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 122,
+        "name": "Novice Scythe",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            22,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 9
+    },
+    {
+        "id": 98,
+        "animationId": 1,
+        "description": "Weapon type: handgun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "novice handgun",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 10
+    },
+    {
+        "id": 99,
+        "animationId": 1,
+        "description": "Weapon type: submachine gun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "novice submachine gun",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 11
+    },
+    {
+        "id": 100,
+        "animationId": 1,
+        "description": "Weapon type: assault rifle\nAttack range: 6 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "novice assault rifle",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 160,
+        "wtypeId": 12
+    },
+    {
+        "id": 101,
+        "animationId": 1,
+        "description": "Weapon type: Sniper rifle\nAttack range: 10 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 116,
+        "name": "novice sniper rifle",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 160,
+        "wtypeId": 13
+    },
+    {
+        "id": 102,
+        "animationId": 1,
+        "description": "Weapon type: one-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 101,
+        "name": "novice wand",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            1,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 60,
+        "wtypeId": 14
+    },
+    {
+        "id": 103,
+        "animationId": 1,
+        "description": "Weapon type: Two-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.06
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 101,
+        "name": "novice rod",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            2,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 15
+    },
+    {
+        "id": 104,
+        "animationId": 11,
+        "description": "Weapon type: Bow\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 102,
+        "name": "Novice Bow",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 16
+    },
+    {
+        "id": 105,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 106,
+        "animationId": 6,
+        "description": "Weapon type: dagger\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "gladius",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 107,
+        "animationId": 6,
+        "description": "Weapon type: One-handed long sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "Falchion",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 3
+    },
+    {
+        "id": 108,
+        "animationId": 6,
+        "description": "Weapon type: One-handed sword\nAttack range: 2 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "fairy rapier",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 4
+    },
+    {
+        "id": 109,
+        "animationId": 6,
+        "description": "Weapon type: Two-handed sword\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 123,
+        "name": "buster sword",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            26,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 5
+    },
+    {
+        "id": 110,
+        "animationId": 6,
+        "description": "Weapon type: sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 120,
+        "name": "Muramasa",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 6
+    },
+    {
+        "id": 111,
+        "animationId": 6,
+        "description": "Weapon type: two-handed ax\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 99,
+        "name": "battle ax",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            26,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 7
+    },
+    {
+        "id": 112,
+        "animationId": 1,
+        "description": "Weapon type: Mace\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "sword mace",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 8
+    },
+    {
+        "id": 113,
+        "animationId": 6,
+        "description": "Weapon type: sickle\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 122,
+        "name": "Grim Reaper's Scythe",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            27,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 9
+    },
+    {
+        "id": 114,
+        "animationId": 1,
+        "description": "Weapon type: handgun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "battle hand gun",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 750,
+        "wtypeId": 10
+    },
+    {
+        "id": 115,
+        "animationId": 1,
+        "description": "Weapon type: submachine gun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "battle submachine gun",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 750,
+        "wtypeId": 11
+    },
+    {
+        "id": 116,
+        "animationId": 1,
+        "description": "Weapon type: assault rifle\nAttack range: 6 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "battle assault",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800,
+        "wtypeId": 12
+    },
+    {
+        "id": 117,
+        "animationId": 1,
+        "description": "Weapon type: Sniper rifle\nAttack range: 10 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 116,
+        "name": "battle sniper",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            50,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800,
+        "wtypeId": 13
+    },
+    {
+        "id": 118,
+        "animationId": 1,
+        "description": "Weapon type: one-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 101,
+        "name": "priest's staff",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            15,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 14
+    },
+    {
+        "id": 119,
+        "animationId": 1,
+        "description": "Weapon type: Two-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.06
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 101,
+        "name": "witch's wand",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            4,
+            0,
+            23,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 15
+    },
+    {
+        "id": 120,
+        "animationId": 11,
+        "description": "Weapon type: Bow\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 102,
+        "name": "hunter bow",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            28,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 16
+    },
+    {
+        "id": 121,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 122,
+        "animationId": 6,
+        "description": "Weapon type: dagger\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "christmas knife",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15%\n</Prefixes>\n\n<Suffixes>\n62 100%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            10,
+            2,
+            0,
+            2,
+            0,
+            -1
+        ],
+        "price": 600,
+        "wtypeId": 2
+    },
+    {
+        "id": 123,
+        "animationId": 6,
+        "description": "Weapon type: dagger\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 96,
+        "name": "christmas knife",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            10,
+            2,
+            0,
+            2,
+            0,
+            -1
+        ],
+        "price": 600,
+        "wtypeId": 2
+    },
+    {
+        "id": 124,
+        "animationId": 6,
+        "description": "Weapon type: One-handed long sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "christmas sword",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            13,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 3
+    },
+    {
+        "id": 125,
+        "animationId": 6,
+        "description": "Weapon type: One-handed sword\nAttack range: 2 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 97,
+        "name": "christmas rapier",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            13,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 4
+    },
+    {
+        "id": 126,
+        "animationId": 6,
+        "description": "Weapon type: Two-handed sword\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 123,
+        "name": "christmas braid",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            28,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 5
+    },
+    {
+        "id": 127,
+        "animationId": 6,
+        "description": "Weapon type: sword\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 120,
+        "name": "christmas katana",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            15,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 6
+    },
+    {
+        "id": 128,
+        "animationId": 6,
+        "description": "Weapon type: two-handed ax\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 99,
+        "name": "christmas ax",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            28,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 7
+    },
+    {
+        "id": 129,
+        "animationId": 1,
+        "description": "Weapon type: Mace\nAttack range: 3 horizontal squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 107,
+        "name": "christmas mace",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            13,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 8
+    },
+    {
+        "id": 130,
+        "animationId": 6,
+        "description": "Weapon type: sickle\nAttack range: 1 square on the left and right + 3 squares in front and horizontally",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 122,
+        "name": "christmas scythe",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            29,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 9
+    },
+    {
+        "id": 131,
+        "animationId": 1,
+        "description": "Weapon type: handgun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "christmas hand gun",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            10,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1500,
+        "wtypeId": 10
+    },
+    {
+        "id": 132,
+        "animationId": 1,
+        "description": "Weapon type: submachine gun\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 104,
+        "name": "christmas machine gun",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            5,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1500,
+        "wtypeId": 11
+    },
+    {
+        "id": 133,
+        "animationId": 1,
+        "description": "Weapon type: assault rifle\nAttack range: 6 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 104,
+        "name": "christmas rifle",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            7,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1600,
+        "wtypeId": 12
+    },
+    {
+        "id": 134,
+        "animationId": 1,
+        "description": "Weapon type: Sniper rifle\nAttack range: 10 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 116,
+        "name": "christmas sniper",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            55,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1600,
+        "wtypeId": 13
+    },
+    {
+        "id": 135,
+        "animationId": 1,
+        "description": "Weapon type: one-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 101,
+        "name": "christmas wand",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            5,
+            2,
+            20,
+            2,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 14
+    },
+    {
+        "id": 136,
+        "animationId": 1,
+        "description": "Weapon type: Two-handed cane\nAttack range: 1 square in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.06
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 101,
+        "name": "christmas rod",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            7,
+            2,
+            27,
+            2,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 15
+    },
+    {
+        "id": 137,
+        "animationId": 11,
+        "description": "Weapon type: Bow\nAttack range: 5 squares in front",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 54,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 102,
+        "name": "christmas bow",
+        "note": " <Random Variance: 2>\n<Prefixes>\n45-49 15% 50-51 20% 52-53 15%\n</Prefixes>\n\n<Suffixes>\n55-56 10% 57 5% 58-61 20% 62-64 10% 65 5%\n</Suffixes>",
+        "params": [
+            0,
+            0,
+            30,
+            2,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 16
+    },
+    {
+        "id": 138,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 139,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 140,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]
